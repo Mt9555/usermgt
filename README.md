@@ -1,0 +1,13 @@
+# CRUD_App_with_Node
+Crud app for managing users. built with express and mongodb , ejs for templating.
+
+#### To Run this project Clone it and install modules using
+```
+npm install
+```
+
+Then Create config.env file and create PORT and MONGO_URI Variable and specify Value.
+That's it. You are ready to go. To execute this project just type
+```
+npm start
+```
